@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\_rss_\_rss_\bin\Debug\_rss_.exe.config
+C:\Users\legen\source\repos\_rss_\_rss_\bin\Debug\_rss_.exe
+C:\Users\legen\source\repos\_rss_\_rss_\bin\Debug\_rss_.pdb
+C:\Users\legen\source\repos\_rss_\_rss_\obj\Debug\_rss_.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\_rss_\_rss_\obj\Debug\_rss_.Form1.resources
+C:\Users\legen\source\repos\_rss_\_rss_\obj\Debug\_rss_.Properties.Resources.resources
+C:\Users\legen\source\repos\_rss_\_rss_\obj\Debug\_rss_.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\_rss_\_rss_\obj\Debug\_rss_.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\_rss_\_rss_\obj\Debug\_rss_.exe
+C:\Users\legen\source\repos\_rss_\_rss_\obj\Debug\_rss_.pdb
